@@ -1,0 +1,6 @@
+*.bash
+*.sh
+.idea
+*.desktop
+*.iml
+*.log
